@@ -16,6 +16,8 @@ I have built an interactive dashboard for the Olympics dataset from 1976 to 2008
 1. A PIE CHART of Total Athletes by Gender.
 2. A COLUMN CHART of Number of medals won by TOP 10 countries.
 3. A SCATTER CHART for showing distribution of medals by GENDER.
+4. MAP showing country of representation by men and women who won gold in a particular event in a given year
  
 # DASHBOARDS
-HOME PAGE - <a href="https://github.com/vineethkumarj/Olympics-Data-Analysis/blob/main/Home_Page.png"> VIEW HOME PAGE </a>
+home page - <a href="https://github.com/vineethkumarj/Olympics-Data-Analysis/blob/main/Home_Page.png"> VIEW HOME PAGE </a>
+insights page - <a href="https://github.com/vineethkumarj/Olympics-Data-Analysis/blob/main/Insights.png"> VIEW INSIGHTS PAGE</a>
